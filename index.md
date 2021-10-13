@@ -13,15 +13,15 @@
 
 ## Publications
 
-### Balancing the budget: Feature selection and tracking for multi-camera visual-inertial odometry
+**Balancing the budget: Feature selection and tracking for multi-camera visual-inertial odometry**
 
 [[arXiv](https://arxiv.org/abs/2109.05975), [video](https://youtu.be/cLWeAT72e0U)] L. Zhang, **D. Wisth**, M. Camurri, and M. Fallon, "Balancing the budget: Feature selection and tracking for multi-camera visual-inertial odometry," 2022.
 
-### VILENS: Visual, inertial, lidar, and leg odometry for all-terrain legged robots
+**VILENS: Visual, inertial, lidar, and leg odometry for all-terrain legged robots**
 
 [[arXiv](https://arxiv.org/abs/2107.07243), [video](https://youtu.be/2318fiEB2cQ)] **D. Wisth**, M. Camurri, and M. Fallon, "VILENS: Visual, inertial, lidar, and leg odometry for all-terrain legged robots," 2021.
 
-### FR-2021: CERBERUS: Autonomous legged and aerial robotic exploration in the tunnel and Urban Circuits of the DARPA Subterranean Challenge
+**FR-2021: CERBERUS: Autonomous legged and aerial robotic exploration in the tunnel and Urban Circuits of the DARPA Subterranean Challenge**
 
 [[pdf](https://www.research-collection.ethz.ch/handle/20.500.11850/489726), [video](https://youtu.be/160jJqJPKdo)] M. Tranzatto, F. Mascarich, L. Bernreiter, C. Godinho, M. Camurri, S. Khattak, T. Dang, V. Reijgwart, J. Löje, **D. Wisth**, S. Zimmermann, H. Nguyen, M. Fehr, L. Solanka, R. Buchanan, M. Bjelonic, N. Khedekar, M. Valceschini, F. Jenelten, M. Dharmadhikari, T. Homberger, P. D. Petris, L. Wellhausen, M. Kulkarni, T. Miki, S. Hirsch, M. Montenegro, C. Papachristos, F. Tresoldi, J. Carius, G. Valsecchi, J. Lee, K. Meyer, X. Wu, J. Nieto, A. Smith, M. Hutter, R. Siegwart, M. Mueller, M. Fallon, and K. Alexis, "CERBERUS: Autonomous legged and aerial robotic exploration in the tunnel and Urban Circuits of the DARPA Subterranean Challenge," *Field Robotics*, 2021.
 
@@ -45,14 +45,14 @@ year = {2021}
 }
 ```
 
-### ICRA/RAL-2021: Unified multi-modal landmark tracking for tightly coupled lidar-visual-inertial odometry
+**ICRA/RAL-2021: Unified multi-modal landmark tracking for tightly coupled lidar-visual-inertial odometry**
 
 [[IEEE](https://ieeexplore.ieee.org/document/9345356)], [[arXiv](https://arxiv.org/abs/2011.06838)], [[Video](https://youtu.be/MjXYAHurWe8)], [[ICRA presentation](https://youtu.be/l3XSGIpQP3Q)]
 
 **D. Wisth**, M. Camurri, S. Das, and M. Fallon, "Unified multi-modal landmark tracking for tightly coupled lidar-visual-inertial odometry," *IEEE Robotics and Automation Letters*, vol. 6, no. 2, pp. 1004-1011, 2021.
 
 ```
-@article{Wisth2021ral,
+@article{Wisth2021,
 author = {Wisth, David and Camurri, Marco and Das, Sandipan and Fallon,
 Maurice},
 journal={IEEE Robotics and Automation Letters},
@@ -66,7 +66,7 @@ doi={10.1109/LRA.2021.3056380}
 }
 ```
 
-### IROS-2020: The Newer College Dataset: Handheld lidar, inertial and vision with ground truth
+**IROS-2020: The Newer College Dataset: Handheld lidar, inertial and vision with ground truth**
 
 [[IEEE](https://ieeexplore.ieee.org/document/9340849)], [[arXiv](https://arxiv.org/abs/2003.05691)], [[Video](https://youtu.be/aIeMPeHDUgs)], [[Extra sequences](https://youtu.be/92gGk-Ld2n8)], [[Website](https://ori-drs.github.io/newer-college-dataset/)] 
 
@@ -85,12 +85,12 @@ year = {2020}
 }
 ```
 
-### ICRA-2020: Preintegrated velocity bias estimation to overcome contact nonlinearities in legged robot odometry
+**ICRA-2020: Preintegrated velocity bias estimation to overcome contact nonlinearities in legged robot odometry**
 
 [[IEEE](https://ieeexplore.ieee.org/document/9197214), [arXiv](https://arxiv.org/abs/1910.09875), [video](https://youtu.be/w1Sx6dIqgQo), [ICRA presentation](https://youtu.be/AqfZ0RTRBBM)] **D. Wisth**, M. Camurri, and M. Fallon, "Preintegrated velocity bias estimation to overcome contact nonlinearities in legged robot odometry," in *IEEE International Conference on Robotics and Automation*, 2020, pp. 392-398.
 
 ```
-@INPROCEEDINGS{Wisth2020,
+@inproceedings{Wisth2020,
 author={Wisth, David and Camurri, Marco and Fallon, Maurice},
 booktitle={IEEE International Conference on Robotics and Automation},
 title={Preintegrated Velocity Bias Estimation to Overcome Contact
@@ -101,7 +101,7 @@ doi={10.1109/ICRA40945.2020.9197214}
 }
 ```
 
-### JFR-2020: Towards autonomous inspection of concrete deterioration in sewers with legged robots
+**JFR-2020: Towards autonomous inspection of concrete deterioration in sewers with legged robots**
 
 [[Wiley](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21964), [pdf](https://ori.ox.ac.uk/media/5620/2020jfr_kolvenbach.pdf), [video](https://youtu.be/oZRb4s1UrFM)] H. Kolvenbach, **D. Wisth**, R. Buchanan, G. Valsecchi, R. Grandia, M. Fallon, and M. Hutter, "Towards autonomous inspection of concrete deterioration in sewers with legged robots," *Journal of Field Robotics*, vol. 37, no. 8, pp. 1314-1327, 2020.
 
@@ -121,15 +121,15 @@ year = {2020}
 }
 ```
 
-### IROS/RAL-2019: Robust legged robot state estimation using factor graph optimization
+**IROS/RAL-2019: Robust legged robot state estimation using factor graph optimization**
 
 [[IEEE](https://ieeexplore.ieee.org/document/8790726), [arXiv](https://arxiv.org/abs/1904.03048), [video](https://youtu.be/p8o7mJPy4_w)] **D. Wisth**, M. Camurri, and M. Fallon, "Robust legged robot state estimation using factor graph optimization," *IEEE Robotics and Automation Letters*, pp. 4507-4514, 2019.
 
 ```
-@ARTICLE{Wisth2019,
+@article{Wisth2019,
 author={Wisth, David and Camurri, Marco and Fallon, Maurice},
 journal={IEEE Robotics and Automation Letters},
-title={Robust Legged Robot State Estimation Using Factor Graph Optimization},
+title={{Robust Legged Robot State Estimation Using Factor Graph Optimization}},
 year={2019},
 volume={4},
 number={4},
