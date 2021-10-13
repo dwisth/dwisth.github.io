@@ -27,8 +27,8 @@
 
 ```
 @article{Tranzatto2021,
-title = {{CERBERUS}: Autonomous Legged and Aerial Robotic Exploration in the
-Tunnel and Urban Circuits of the {DARPA} Subterranean Challenge},
+title = {{CERBERUS: Autonomous Legged and Aerial Robotic Exploration in the
+Tunnel and Urban Circuits of the DARPA Subterranean Challenge}},
 author={Marco Tranzatto  and Frank Mascarich and Lukas Bernreiter and Carolina
 Godinho and Marco Camurri and Shehryar Khattak and Tung Dang and Victor
 Reijgwart and Johannes L\"{o}je and David Wisth and Samuel Zimmermann and Huan
