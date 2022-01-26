@@ -15,7 +15,7 @@
 
 **RAL-2022: Balancing the budget: Feature selection and tracking for multi-camera visual-inertial odometry**
 
-[[arXiv](https://arxiv.org/abs/2109.05975), [video](https://youtu.be/cLWeAT72e0U)] L. Zhang, **D. Wisth**, M. Camurri and M. Fallon, "Balancing the Budget: Feature Selection and Tracking for Multi-Camera Visual-Inertial Odometry," in *IEEE Robotics and Automation Letters*, vol. 7, no. 2, pp. 1182-1189, 2022.
+[[IEEE](https://ieeexplore.ieee.org/document/9662207), [arXiv](https://arxiv.org/abs/2109.05975), [video](https://youtu.be/cLWeAT72e0U)] L. Zhang, **D. Wisth**, M. Camurri and M. Fallon, "Balancing the Budget: Feature Selection and Tracking for Multi-Camera Visual-Inertial Odometry," in *IEEE Robotics and Automation Letters*, vol. 7, no. 2, pp. 1182-1189, 2022.
 
 {% raw %}
 ```
