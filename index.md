@@ -111,10 +111,11 @@ author = {Ramezani, Milad and Wang, Yiduo and Camurri, Marco and Wisth, David
 and Mattamala, Matias and Fallon, Maurice},
 booktitle = {IEEE/RSJ International Conference on Intelligent Robots and 
 Systems},
-eprint = {2003.05691},
 title = {{The Newer College Dataset: Handheld LiDAR, Inertial and Vision with
 Ground Truth}},
-year = {2020}
+year = {2020},
+pages={4353-4360},
+doi={10.1109/IROS45743.2020.9340849}
 }
 ```
 {% endraw %}
