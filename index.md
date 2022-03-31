@@ -13,7 +13,7 @@
 
 ## Publications
 
-**RAL-2022: Balancing the budget: Feature selection and tracking for multi-camera visual-inertial odometry**
+**ICRA/RAL-2022: Balancing the budget: Feature selection and tracking for multi-camera visual-inertial odometry**
 
 [[IEEE](https://ieeexplore.ieee.org/document/9662207), [arXiv](https://arxiv.org/abs/2109.05975), [video](https://youtu.be/cLWeAT72e0U)] L. Zhang, **D. Wisth**, M. Camurri and M. Fallon, "Balancing the Budget: Feature Selection and Tracking for Multi-Camera Visual-Inertial Odometry," in *IEEE Robotics and Automation Letters*, vol. 7, no. 2, pp. 1182-1189, 2022.
 
@@ -38,7 +38,7 @@ doi={10.1109/LRA.2021.3137910}
 
 {% raw %}
 ```
-@article{Wisth2021tro,
+@article{Wisth2021,
 author = {Wisth, David and Camurri, Marco and Fallon, Maurice},
 journal={arXiv},
 title = {{VILENS: Visual, Inertial, Lidar, and Leg Odometry for All-Terrain
@@ -50,7 +50,7 @@ year={2021}
 
 **FR-2021: CERBERUS: Autonomous legged and aerial robotic exploration in the tunnel and Urban Circuits of the DARPA Subterranean Challenge**
 
-[[pdf](https://www.research-collection.ethz.ch/handle/20.500.11850/489726), [video](https://youtu.be/160jJqJPKdo)] M. Tranzatto, F. Mascarich, L. Bernreiter, C. Godinho, M. Camurri, S. Khattak, T. Dang, V. Reijgwart, J. Löje, **D. Wisth**, S. Zimmermann, H. Nguyen, M. Fehr, L. Solanka, R. Buchanan, M. Bjelonic, N. Khedekar, M. Valceschini, F. Jenelten, M. Dharmadhikari, T. Homberger, P. D. Petris, L. Wellhausen, M. Kulkarni, T. Miki, S. Hirsch, M. Montenegro, C. Papachristos, F. Tresoldi, J. Carius, G. Valsecchi, J. Lee, K. Meyer, X. Wu, J. Nieto, A. Smith, M. Hutter, R. Siegwart, M. Mueller, M. Fallon, and K. Alexis, "CERBERUS: Autonomous legged and aerial robotic exploration in the tunnel and Urban Circuits of the DARPA Subterranean Challenge," *Field Robotics*, 2021.
+[[pdf](https://www.journalfieldrobotics.org/Field_Robotics/Papers_files/Vol2_11.pdf), [video](https://youtu.be/160jJqJPKdo)] M. Tranzatto, F. Mascarich, L. Bernreiter, C. Godinho, M. Camurri, S. Khattak, T. Dang, V. Reijgwart, J. Löje, **D. Wisth**, S. Zimmermann, H. Nguyen, M. Fehr, L. Solanka, R. Buchanan, M. Bjelonic, N. Khedekar, M. Valceschini, F. Jenelten, M. Dharmadhikari, T. Homberger, P. D. Petris, L. Wellhausen, M. Kulkarni, T. Miki, S. Hirsch, M. Montenegro, C. Papachristos, F. Tresoldi, J. Carius, G. Valsecchi, J. Lee, K. Meyer, X. Wu, J. Nieto, A. Smith, M. Hutter, R. Siegwart, M. Mueller, M. Fallon, and K. Alexis, "CERBERUS: Autonomous legged and aerial robotic exploration in the tunnel and Urban Circuits of the DARPA Subterranean Challenge," *Field Robotics*, vol. 2, pp. 274-324, 2022.
 
 {% raw %}
 ```
@@ -69,7 +69,9 @@ and Joonho Lee and Konrad Meyer and Xiangyu Wu and Juan Nieto and Andy Smith
 and Marco Hutter and Roland Siegwart and Mark Mueller and Maurice Fallon and
 Kostas Alexis},
 journal={Field Robotics},
-year = {2021}
+year = {2021},
+number={2},
+pages={274--324}
 }
 ```
 {% endraw %}
