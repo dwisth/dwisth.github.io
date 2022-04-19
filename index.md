@@ -34,21 +34,21 @@ doi={10.1109/LRA.2021.3137910}
 
 **VILENS: Visual, inertial, lidar, and leg odometry for all-terrain legged robots**
 
-[[arXiv](https://arxiv.org/abs/2107.07243), [video](https://youtu.be/2318fiEB2cQ)] **D. Wisth**, M. Camurri, and M. Fallon, "VILENS: Visual, inertial, lidar, and leg odometry for all-terrain legged robots," 2021.
+[[arXiv](https://arxiv.org/abs/2107.07243), [video](https://youtu.be/2318fiEB2cQ)] **D. Wisth**, M. Camurri, and M. Fallon, "VILENS: Visual, inertial, lidar, and leg odometry for all-terrain legged robots," 2022.
 
 {% raw %}
 ```
-@article{Wisth2021,
+@article{Wisth2022,
 author = {Wisth, David and Camurri, Marco and Fallon, Maurice},
 journal={arXiv},
 title = {{VILENS: Visual, Inertial, Lidar, and Leg Odometry for All-Terrain
 Legged Robots}},
-year={2021}
+year={2022}
 }
 ```
 {% endraw %}
 
-**FR-2021: CERBERUS: Autonomous legged and aerial robotic exploration in the tunnel and Urban Circuits of the DARPA Subterranean Challenge**
+**FR-2022: CERBERUS: Autonomous legged and aerial robotic exploration in the tunnel and Urban Circuits of the DARPA Subterranean Challenge**
 
 [[pdf](https://www.journalfieldrobotics.org/Field_Robotics/Papers_files/Vol2_11.pdf), [video](https://youtu.be/160jJqJPKdo)] M. Tranzatto, F. Mascarich, L. Bernreiter, C. Godinho, M. Camurri, S. Khattak, T. Dang, V. Reijgwart, J. Löje, **D. Wisth**, S. Zimmermann, H. Nguyen, M. Fehr, L. Solanka, R. Buchanan, M. Bjelonic, N. Khedekar, M. Valceschini, F. Jenelten, M. Dharmadhikari, T. Homberger, P. D. Petris, L. Wellhausen, M. Kulkarni, T. Miki, S. Hirsch, M. Montenegro, C. Papachristos, F. Tresoldi, J. Carius, G. Valsecchi, J. Lee, K. Meyer, X. Wu, J. Nieto, A. Smith, M. Hutter, R. Siegwart, M. Mueller, M. Fallon, and K. Alexis, "CERBERUS: Autonomous legged and aerial robotic exploration in the tunnel and Urban Circuits of the DARPA Subterranean Challenge," *Field Robotics*, vol. 2, pp. 274-324, 2022.
 
@@ -69,7 +69,7 @@ and Joonho Lee and Konrad Meyer and Xiangyu Wu and Juan Nieto and Andy Smith
 and Marco Hutter and Roland Siegwart and Mark Mueller and Maurice Fallon and
 Kostas Alexis},
 journal={Field Robotics},
-year = {2021},
+year = {2022},
 number={2},
 pages={274--324},
 doi={10.55417/fr.2022011}
