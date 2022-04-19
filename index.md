@@ -71,7 +71,8 @@ Kostas Alexis},
 journal={Field Robotics},
 year = {2021},
 number={2},
-pages={274--324}
+pages={274--324},
+doi={10.55417/fr.2022011}
 }
 ```
 {% endraw %}
