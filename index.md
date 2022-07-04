@@ -13,6 +13,36 @@
 
 ## Publications
 
+**DATASET: Multi-Camera LiDAR Inertial Extension to the Newer College Dataset**
+
+[[PDF](https://arxiv.org/pdf/2112.08854.pdf)] L. Zhang, M. Camurri, **D. Wisth** and M. Fallon, "Multi-Camera LiDAR Inertial Extension to the Newer College Dataset," 2022.
+
+{% raw %}
+```
+@article{Lintong2022newercollege,
+author = {Zhang, Lintong and Camurri, Marco and Wisth, David and Fallon, Maurice},
+journal={arXiv},
+title = {{Multi-Camera LiDAR Inertial Extension to the Newer College Dataset}},
+year={2022}
+}
+```
+{% endraw %}
+
+**THESIS: Multisensor fusion for state estimation via factor graphs**
+
+[[PDF](https://ora.ox.ac.uk/objects/uuid:4bf22929-68cf-495d-814e-f68894c17892)] **D. Wisth**, "Multisensor fusion for state estimation via factor graphs," 2021.
+
+{% raw %}
+```
+@phdthesis{Wisth2021thesis,
+author = {Wisth, David},
+title = {{Balancing the Budget: Feature Selection and Tracking for Multi-Camera Visual-Inertial Odometry}},
+year={2021},
+url={https://ora.ox.ac.uk/objects/uuid:4bf22929-68cf-495d-814e-f68894c17892}
+}
+```
+{% endraw %}
+
 **ICRA/RAL-2022: Balancing the budget: Feature selection and tracking for multi-camera visual-inertial odometry**
 
 [[IEEE](https://ieeexplore.ieee.org/document/9662207), [arXiv](https://arxiv.org/abs/2109.05975), [video](https://youtu.be/cLWeAT72e0U)] L. Zhang, **D. Wisth**, M. Camurri and M. Fallon, "Balancing the Budget: Feature Selection and Tracking for Multi-Camera Visual-Inertial Odometry," in *IEEE Robotics and Automation Letters*, vol. 7, no. 2, pp. 1182-1189, 2022.
