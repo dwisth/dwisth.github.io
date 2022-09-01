@@ -13,13 +13,28 @@
 
 ## Publications
 
+**Hilti-Oxford Dataset: A Millimetre-Accurate Benchmark for Simultaneous Localization and Mapping**
+
+[[arXiv](https://arxiv.org/abs/2208.09825), [Website](https://hilti-challenge.com/), [Video](https://www.youtube.com/watch?v=-LMq3zU47Pw)] L. Zhang, M. Helmberger, L. F. T. Fu, **D. Wisth**, M. Camurri, D. Scaramuzza and M. Fallon, "Hilti-Oxford Dataset: A Millimetre-Accurate Benchmark for Simultaneous Localization and Mapping," 2022.
+
+{% raw %}
+```
+@article{Zhang2022hiltioxforddataset,
+author = {Zhang, Lintong and Helmberger, Michael and Fu, Lanke Frank Tarimo and Wisth, David and Camurri, Marco and Scaramuzza, Davide and Fallon, Maurice},
+journal={arXiv},
+title = {{Hilti-Oxford Dataset: A Millimetre-Accurate Benchmark for Simultaneous Localization and Mapping}},
+year={2022}
+}
+```
+{% endraw %}
+
 **DATASET: Multi-Camera LiDAR Inertial Extension to the Newer College Dataset**
 
 [[PDF](https://arxiv.org/pdf/2112.08854.pdf)] L. Zhang, M. Camurri, **D. Wisth** and M. Fallon, "Multi-Camera LiDAR Inertial Extension to the Newer College Dataset," 2022.
 
 {% raw %}
 ```
-@article{Lintong2022newercollege,
+@article{Zhang2022newercollege,
 author = {Zhang, Lintong and Camurri, Marco and Wisth, David and Fallon, Maurice},
 journal={arXiv},
 title = {{Multi-Camera LiDAR Inertial Extension to the Newer College Dataset}},
@@ -62,17 +77,17 @@ doi={10.1109/LRA.2021.3137910}
 ```
 {% endraw %}
 
-**VILENS: Visual, inertial, lidar, and leg odometry for all-terrain legged robots**
+**TRO-2022: VILENS: Visual, inertial, lidar, and leg odometry for all-terrain legged robots**
 
-[[arXiv](https://arxiv.org/abs/2107.07243), [video](https://youtu.be/2318fiEB2cQ)] **D. Wisth**, M. Camurri, and M. Fallon, "VILENS: Visual, inertial, lidar, and leg odometry for all-terrain legged robots," 2022.
+[[IEEE](https://ieeexplore.ieee.org/document/9852710), [arXiv](https://arxiv.org/abs/2107.07243), [video](https://youtu.be/2318fiEB2cQ)] **D. Wisth**, M. Camurri, and M. Fallon, "VILENS: Visual, inertial, lidar, and leg odometry for all-terrain legged robots," 2022.
 
 {% raw %}
 ```
 @article{Wisth2022,
 author = {Wisth, David and Camurri, Marco and Fallon, Maurice},
-journal={arXiv},
-title = {{VILENS: Visual, Inertial, Lidar, and Leg Odometry for All-Terrain
-Legged Robots}},
+journal={IEEE Transactions on Robotics}, 
+title = {{VILENS: Visual, Inertial, Lidar, and Leg Odometry for All-Terrain Legged Robots}},
+doi={10.1109/TRO.2022.3193788}},
 year={2022}
 }
 ```
