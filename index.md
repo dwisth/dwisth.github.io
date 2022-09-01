@@ -30,7 +30,7 @@ year={2022}
 
 **Team CERBERUS Wins the DARPA Subterranean Challenge: Technical Overview and Lessons Learned**
 
-[[pdf](https://arxiv.org/abs/2207.04914), [video](https://youtu.be/160jJqJPKdo)] M. Tranzatto, M. Dharmadhikari, L. Bernreiter, M. Camurri, S. Khattak, F. Mascarich, P. Pfreundschuh, **D. Wisth**, et al., "Team CERBERUS Wins the DARPA Subterranean Challenge: Technical Overview and Lessons Learned," arXiv, 2022.
+[[pdf](https://arxiv.org/abs/2207.04914), [video](https://youtu.be/QON8IFc8cjE)] M. Tranzatto, M. Dharmadhikari, L. Bernreiter, M. Camurri, S. Khattak, F. Mascarich, P. Pfreundschuh, **D. Wisth**, et al., "Team CERBERUS Wins the DARPA Subterranean Challenge: Technical Overview and Lessons Learned," arXiv, 2022.
 
 {% raw %}
 ```
