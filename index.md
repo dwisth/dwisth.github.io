@@ -14,8 +14,8 @@
 ## Publications
 
 **Hilti-Oxford Dataset: A Millimetre-Accurate Benchmark for Simultaneous Localization and Mapping**
-
 [[arXiv](https://arxiv.org/abs/2208.09825), [Website](https://hilti-challenge.com/), [Video](https://www.youtube.com/watch?v=-LMq3zU47Pw)] L. Zhang, M. Helmberger, L. F. T. Fu, **D. Wisth**, M. Camurri, D. Scaramuzza and M. Fallon, "Hilti-Oxford Dataset: A Millimetre-Accurate Benchmark for Simultaneous Localization and Mapping," 2022.
+
 
 {% raw %}
 ```
@@ -28,9 +28,28 @@ year={2022}
 ```
 {% endraw %}
 
+**Team CERBERUS Wins the DARPA Subterranean Challenge: Technical Overview and Lessons Learned**
+
+[[pdf](https://arxiv.org/abs/2207.04914), [video](https://youtu.be/160jJqJPKdo)] M. Tranzatto, M. Dharmadhikari, L. Bernreiter, M. Camurri, S. Khattak, F. Mascarich, P. Pfreundschuh, **D. Wisth**, et al., "Team CERBERUS Wins the DARPA Subterranean Challenge: Technical Overview and Lessons Learned," arXiv, 2022.
+
+{% raw %}
+```
+@article{Tranzatto2022,
+title = {{Team CERBERUS Wins the DARPA Subterranean Challenge: Technical 
+Overview and Lessons Learned}},
+author={Tranzatto, Marco and Dharmadhikari, Mihir and Bernreiter, Lukas
+ and Camurri, Marco and Khattak, Shehryar and Mascarich, Frank and 
+ Pfreundschuh, Patrick and Wisth, David and Zimmermann, Samuel and 
+ Kulkarni, Mihir and others},
+journal={arXiv},
+year = {2022}
+}
+```
+{% endraw %}
+
 **DATASET: Multi-Camera LiDAR Inertial Extension to the Newer College Dataset**
 
-[[PDF](https://arxiv.org/pdf/2112.08854.pdf)] L. Zhang, M. Camurri, **D. Wisth** and M. Fallon, "Multi-Camera LiDAR Inertial Extension to the Newer College Dataset," 2022.
+[[PDF](https://arxiv.org/pdf/2112.08854.pdf)] L. Zhang, M. Camurri, **D. Wisth** and M. Fallon, "Multi-Camera LiDAR Inertial Extension to the Newer College Dataset," arXiv, 2022.
 
 {% raw %}
 ```
@@ -95,7 +114,7 @@ year={2022}
 
 **FR-2022: CERBERUS: Autonomous legged and aerial robotic exploration in the tunnel and Urban Circuits of the DARPA Subterranean Challenge**
 
-[[pdf](https://www.journalfieldrobotics.org/Field_Robotics/Papers_files/Vol2_11.pdf), [video](https://youtu.be/160jJqJPKdo)] M. Tranzatto, F. Mascarich, L. Bernreiter, C. Godinho, M. Camurri, S. Khattak, T. Dang, V. Reijgwart, J. Löje, **D. Wisth**, S. Zimmermann, H. Nguyen, M. Fehr, L. Solanka, R. Buchanan, M. Bjelonic, N. Khedekar, M. Valceschini, F. Jenelten, M. Dharmadhikari, T. Homberger, P. D. Petris, L. Wellhausen, M. Kulkarni, T. Miki, S. Hirsch, M. Montenegro, C. Papachristos, F. Tresoldi, J. Carius, G. Valsecchi, J. Lee, K. Meyer, X. Wu, J. Nieto, A. Smith, M. Hutter, R. Siegwart, M. Mueller, M. Fallon, and K. Alexis, "CERBERUS: Autonomous legged and aerial robotic exploration in the tunnel and Urban Circuits of the DARPA Subterranean Challenge," *Field Robotics*, vol. 2, pp. 274-324, 2022.
+[[pdf](https://doi.org/10.55417/fr.2022011), [video](https://youtu.be/160jJqJPKdo)] M. Tranzatto, F. Mascarich, L. Bernreiter, C. Godinho, M. Camurri, S. Khattak, T. Dang, V. Reijgwart, J. Löje, **D. Wisth**, S. Zimmermann, H. Nguyen, M. Fehr, L. Solanka, R. Buchanan, M. Bjelonic, N. Khedekar, M. Valceschini, F. Jenelten, M. Dharmadhikari, T. Homberger, P. D. Petris, L. Wellhausen, M. Kulkarni, T. Miki, S. Hirsch, M. Montenegro, C. Papachristos, F. Tresoldi, J. Carius, G. Valsecchi, J. Lee, K. Meyer, X. Wu, J. Nieto, A. Smith, M. Hutter, R. Siegwart, M. Mueller, M. Fallon, and K. Alexis, "CERBERUS: Autonomous legged and aerial robotic exploration in the tunnel and Urban Circuits of the DARPA Subterranean Challenge," *Field Robotics*, vol. 2, pp. 274-324, 2022.
 
 {% raw %}
 ```
