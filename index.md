@@ -13,17 +13,20 @@
 
 ## Publications
 
-**Hilti-Oxford Dataset: A Millimetre-Accurate Benchmark for Simultaneous Localization and Mapping**
-[[arXiv](https://arxiv.org/abs/2208.09825), [Website](https://hilti-challenge.com/), [Video](https://www.youtube.com/watch?v=-LMq3zU47Pw)] L. Zhang, M. Helmberger, L. F. T. Fu, **D. Wisth**, M. Camurri, D. Scaramuzza and M. Fallon, "Hilti-Oxford Dataset: A Millimetre-Accurate Benchmark for Simultaneous Localization and Mapping," 2022.
-
+**ICRA/RAL-2023: Hilti-Oxford Dataset: A Millimetre-Accurate Benchmark for Simultaneous Localization and Mapping**
+[[IEEE](https://ieeexplore.ieee.org/document/9968057), [arXiv](https://arxiv.org/abs/2208.09825), [Website](https://hilti-challenge.com/), [Video](https://www.youtube.com/watch?v=-LMq3zU47Pw)] L. Zhang, M. Helmberger, L. F. T. Fu, **D. Wisth**, M. Camurri, D. Scaramuzza and M. Fallon, "Hilti-Oxford Dataset: A Millimeter-Accurate Benchmark for Simultaneous Localization and Mapping," in *IEEE Robotics and Automation Letters*, vol. 8, no. 1, pp. 408-415, 2023, doi: 10.1109/LRA.2022.3226077.
 
 {% raw %}
 ```
-@article{Zhang2022hiltioxforddataset,
-author = {Zhang, Lintong and Helmberger, Michael and Fu, Lanke Frank Tarimo and Wisth, David and Camurri, Marco and Scaramuzza, Davide and Fallon, Maurice},
-journal={arXiv},
-title = {{Hilti-Oxford Dataset: A Millimetre-Accurate Benchmark for Simultaneous Localization and Mapping}},
-year={2022}
+@ARTICLE{Zhang2022hiltioxforddataset,
+  author={Zhang, Lintong and Helmberger, Michael and Fu, Lanke Frank Tarimo and Wisth, David and Camurri, Marco and Scaramuzza, Davide and Fallon, Maurice},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={Hilti-Oxford Dataset: A Millimeter-Accurate Benchmark for Simultaneous Localization and Mapping}, 
+  year={2023},
+  volume={8},
+  number={1},
+  pages={408-415},
+  doi={10.1109/LRA.2022.3226077}
 }
 ```
 {% endraw %}
