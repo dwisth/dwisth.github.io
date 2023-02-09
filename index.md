@@ -13,6 +13,8 @@
 
 ## Publications
 
+Link to [Google Scholar](https://scholar.google.com/citations?user=R-_OEUUAAAAJ&hl=en) profile.
+
 **ICRA/RAL-2023: Hilti-Oxford Dataset: A Millimetre-Accurate Benchmark for Simultaneous Localization and Mapping**
 [[IEEE](https://ieeexplore.ieee.org/document/9968057), [arXiv](https://arxiv.org/abs/2208.09825), [Website](https://hilti-challenge.com/), [Video](https://www.youtube.com/watch?v=-LMq3zU47Pw)] L. Zhang, M. Helmberger, L. F. T. Fu, **D. Wisth**, M. Camurri, D. Scaramuzza and M. Fallon, "Hilti-Oxford Dataset: A Millimeter-Accurate Benchmark for Simultaneous Localization and Mapping," in *IEEE Robotics and Automation Letters*, vol. 8, no. 1, pp. 408-415, 2023, doi: 10.1109/LRA.2022.3226077.
 
@@ -99,18 +101,21 @@ doi={10.1109/LRA.2021.3137910}
 ```
 {% endraw %}
 
-**TRO-2022: VILENS: Visual, inertial, lidar, and leg odometry for all-terrain legged robots**
+**TRO-2023: VILENS: Visual, inertial, lidar, and leg odometry for all-terrain legged robots**
 
-[[IEEE](https://ieeexplore.ieee.org/document/9852710), [arXiv](https://arxiv.org/abs/2107.07243), [video](https://youtu.be/2318fiEB2cQ)] **D. Wisth**, M. Camurri, and M. Fallon, "VILENS: Visual, inertial, lidar, and leg odometry for all-terrain legged robots," 2022.
+[[IEEE](https://ieeexplore.ieee.org/document/9852710), [arXiv](https://arxiv.org/abs/2107.07243), [video](https://youtu.be/2318fiEB2cQ)] **D. Wisth**, M. Camurri, and M. Fallon, "VILENS: Visual, inertial, lidar, and leg odometry for all-terrain legged robots," in *IEEE Transactions on Robotics*, vol. 39, no. 1, pp. 309-326, 2023, doi: 10.1109/TRO.2022.3193788.
 
 {% raw %}
 ```
-@article{Wisth2022,
+@article{Wisth2023,
 author = {Wisth, David and Camurri, Marco and Fallon, Maurice},
 journal={IEEE Transactions on Robotics}, 
 title = {{VILENS: Visual, Inertial, Lidar, and Leg Odometry for All-Terrain Legged Robots}},
-doi={10.1109/TRO.2022.3193788}},
-year={2022}
+year={2023},
+volume={39},
+number={1},
+pages={309-326},
+doi={10.1109/TRO.2022.3193788}
 }
 ```
 {% endraw %}
